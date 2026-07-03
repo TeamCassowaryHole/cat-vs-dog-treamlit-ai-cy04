@@ -1,4 +1,4 @@
-# 
+# خفيف Cat vs Dog Classifier with PyTorch and Streamlit سكريبتات. مع استخراج الميزات و أخلاقيات الذكاء الاصطناعي — مُحسَّن لأقصى أداء.
 
 
 
